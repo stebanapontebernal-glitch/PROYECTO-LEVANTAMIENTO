@@ -1,0 +1,29 @@
+**CASO DE ESTUDIO Y PROYECTO: SISTEMA DE GESTIÓN DE TRANSPORTE UNIVERSITARIO "MOVIUS"**
+
+Descripción Breve del Proyecto y Contexto Académico
+El usuario está trabajando en un proyecto de análisis de sistemas llamado "MOVIUS".
+cuyo objetivo es diseñar un Producto Mínimo Viable (MVP) para un Sistema de Gestión de Transporte Universitario para la Universidad Metropolitana del Norte (UMN).
+
+El MVP busca solucionar los problemas críticos de planificación, seguridad, comunicación y satisfacción del usuario del servicio de bus actual, 
+operando con una flota de 18 buses para 15,000 estudiantes en 3 sedes. 
+El proyecto requiere la entrega de un SRS inicial (IEEE 830), diagramas UML, un prototipo de alta fidelidad en Figma y un backlog en GitHub en un plazo de 4 meses.
+
+
+El usuario también está consultando activamente sobre principios fundamentales de Modelado de Datos Relacionales, 
+lo que indica que el diseño de la base de datos es una parte clave del MVP.Las áreas académicas de enfoque incluyen:
+
+Normalización: Minimizar la redundancia, inconsistencias y anomalías (a través de $2FN$ y $3FN$).
+
+Mapeo Lógico a Físico: Resolución de relaciones $M:N$ mediante entidades de intersección y uso de claves primarias y externas.
+
+Reglas de Negocio: La necesidad de documentar reglas formales y la limitación de que no todas las reglas pueden modelarse en el diseño de datos.
+
+Estructuras Avanzadas: Uso de arcos y relaciones de supertipo/subtipo para modelar la exclusividad mutua.
+
+Modelado Temporal: Comprensión de que el modelado de datos históricos es opcional y a menudo requiere que el UID incluya fechas.
+
+| Nombres  | Correos|
+|---|---|
+|JORGE ESTEBAN APONTE BERNAL|jestebanaponte@ucompensar.edu.co|
+|   |   |
+|   |   |
