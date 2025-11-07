@@ -27,3 +27,117 @@ Modelado Temporal: Comprensión de que el modelado de datos históricos es opcio
 |JORGE ESTEBAN APONTE BERNAL|jestebanaponte@ucompensar.edu.co|
 |  JUAN PABLO |   |
 |  SEBASTIAN |   |
+
+
+
+
+
+
+
+
+
+
+
+
+# Especificación de Requisitos de Software (SRS)
+
+**Proyecto:** SISTEMA DE GESTIÓN DE TRANSPORTE UNIVERSITARIO "MOVIUS" 
+**Versión:** 0.1  
+**Preparado por:** Esteban Aponte - Juan Pablo - Sebastian   
+**Fecha:** 2025 - 11 - 07
+
+---
+
+## 1. Introducción
+El Siguiente Proyecto se Realiza Debido a la necesidad de  La Universidad Metropolitana del Norte (UMN)
+### 1.1 Propósito  
+Describe por qué existe este documento y para quién es.
+
+### 1.2 Alcance del Sistema  
+Descripción del sistema, sus límites y qué se incluye aquí.
+
+### 1.3 Definiciones, acrónimos y abreviaturas  
+- **Usuario**: Persona que utilizará el sistema.  
+- **Administrador**: Persona que gestiona usuarios, etc.  
+...
+
+### 1.4 Referencias  
+Lista de documentos, normas, webs, artículos, etc.
+
+### 1.5 Visión general del documento  
+Describir brevemente la estructura del resto del documento.
+
+---
+
+## 2. Descripción general
+
+### 2.1 Perspectiva del producto  
+- ¿Es parte de un sistema mayor o es independiente?  
+- Diagrama sencillo si aplica.
+
+### 2.2 Funciones del producto  
+Resumen de las funciones clave que ofrecerá el sistema.
+
+### 2.3 Características de los usuarios  
+¿Quiénes usarán el sistema? (estudiantes, administradores, conductor, etc.)
+
+### 2.4 Restricciones  
+Limitaciones del sistema (por ejemplo: debe funcionar en Android o web, restricciones de base de datos, leyes, etc.)
+
+### 2.5 Suposiciones y dependencias  
+Factores que se dan por hechos y de los que depende el sistema.
+
+### 2.6 Evolución previsible  
+Qué mejoras o futuras versiones se podrían agregar.
+
+---
+
+## 3. Requisitos específicos
+
+### 3.1 Interfaces externas  
+#### 3.1.1 Interfaces de usuario  
+¿Cómo será la interfaz? diseño, pantallas, menú, errores.  
+#### 3.1.2 Interfaces de hardware  
+¿Se conecta con dispositivos físicos? ¿Qué puertos, sensores, GPS?  
+#### 3.1.3 Interfaces de software  
+¿Se integrará con otros sistemas o bases de datos?  
+#### 3.1.4 Interfaces de comunicación  
+Protocolos, APIs, formatos de datos.
+
+### 3.2 Requisitos funcionales  
+Enumerar los requisitos funcionales, por ejemplo:  
+- RF1: “El sistema debe permitir a los estudiantes registrar su viaje”  
+- RF2: “El sistema debe mostrar el estado del transporte en tiempo real”
+
+Cada requisito debe tener: **ID**, **nombre**, **descripción**, **prioridad**, **responsable**, etc.
+
+### 3.3 Requisitos no funcionales  
+- Rendimiento: tiempos de respuesta, concurrencia, latencia.  
+- Seguridad: autenticación, roles, cifrado.  
+- Fiabilidad / disponibilidad  
+- Mantenibilidad  
+- Portabilidad  
+
+### 3.4 Otros requisitos  
+Cualquier otro requisito que no encaje en las categorías anteriores (legales, políticas, de usabilidad, etc.)
+
+---
+
+## 4. Validación de los requisitos  
+Cómo se verificarán los requisitos (pruebas, criterios de aceptación).
+
+---
+
+## 5. Anexos  
+Glosario, diagramas, referencias detalladas, etc.
+
+---
+
+## Historial de revisiones
+
+| Versión | Fecha       | Descripción del cambio | Autor |
+|---|---|---|---|
+| 0.1 | YYYY-MM-DD | Versión inicial | Tu nombre |
+
+
+ 
